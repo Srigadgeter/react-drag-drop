@@ -7,3 +7,8 @@ Download the project zip file and extract and go to this path react-drag-drop an
 *2. To run the project* `npm start`
 
 Enjoy the Project!!!
+
+
+## VIDEO DEMO
+
+![](react_drag_drop.gif)
